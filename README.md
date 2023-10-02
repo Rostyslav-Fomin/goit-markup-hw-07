@@ -6,7 +6,7 @@
 </ol>
 
 <h1>Структура файлів проекту<h1>
-  <img src="https://textbook.edu.goit.global/lms-html-css-homework/v2/uk/img/07-preview.svg" width="260" height="260"/>
+  <img src="https://textbook.edu.goit.global/lms-html-css-homework/v2/uk/img/07-preview.svg" width="1260" height="260"/>
 
 <h2>Критерії приймання роботи наставником</h2>
 
